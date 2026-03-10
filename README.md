@@ -67,7 +67,7 @@ Features:
 - Modular logic for prompt processing
 
 
-### Codecavas – AI Code Execution Visualizer
+### Codecanvas – AI Code Execution Visualizer
 
 A web tool that simulates Python code execution step-by-step.
 
