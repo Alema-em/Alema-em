@@ -5,8 +5,6 @@
 
 ## Hey, I'm Alema Emran
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blue)
-
 ### Computer Science Student | BITS Pilani Dubai
 
 ### Future Software Engineer | Builder | Designer
