@@ -132,8 +132,4 @@ Email: alemaemran@gmail.com
 
 Always building. Always learning.
 
-## Contribution Graph
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Alema-em/Alema-em/output/github-contribution-grid-snake-dark.svg" />
-</p>
