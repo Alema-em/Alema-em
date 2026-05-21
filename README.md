@@ -11,7 +11,7 @@
 
 ## About Me
 
-- First-year **Computer Science Engineering** student at **BITS Pilani Dubai Campus**
+- Second-year **Computer Science Engineering** student at **BITS Pilani Dubai Campus**
 - Passionate about **building products, startups and creative tech**
 - Love combining **technology + design**
 - Currently learning **Data Structures & Algorithms + Web Development**
