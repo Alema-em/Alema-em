@@ -1,17 +1,12 @@
 <!--
 GitHub profile README for https://github.com/Alema-em
-Paste this file into the Alema-em/Alema-em repository along with wave.svg.
-Local preview: npm install && npm run dev
-Publish steps: docs/PUBLISH.md
 -->
 
 <div align="center">
 
-<img src="wave.svg" width="72" height="72" alt="Waving hello" />
+# Hey, I'm Alema Emran <img src="wave.gif" width="32" alt="Waving hello" />
 
-# Hey, I'm Alema Emran
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=00F7FF&center=true&vCenter=true&multiline=false&width=680&height=36&lines=Computer+Science+student;BITS+Pilani+Dubai;Full-stack+products+%2B+applied+AI;Open+to+software+engineering+internships" alt="Typing tagline: Computer Science student at BITS Pilani Dubai" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=680&height=36&lines=Computer+Science+student;BITS+Pilani+Dubai;Full-stack+products+%2B+applied+AI;Open+to+software+engineering+internships" alt="Typing tagline: Computer Science student at BITS Pilani Dubai" />
 
 **Computer Science · BITS Pilani Dubai**
 <br />
@@ -35,7 +30,7 @@ Full-stack products, applied AI and design-aware engineering
 
 I am a CS student at **BITS Pilani Dubai Campus** who ships end-to-end products: authenticated web apps, local LLM tools and operational software for real businesses.
 
-I also lead brand systems at [Axiomaera](https://axiomaera.com/), so I care about how a product looks, how it is built and how it is explained. Recent work includes a **simulation study of risk-sensitive ranking under unreliable AIoT telemetry** (manuscript under review).
+I care about how a product looks, how it is built and how it is explained. Recent work includes a **simulation study of risk-sensitive ranking under unreliable AIoT telemetry** (manuscript under review).
 
 **Right now:** production-grade TypeScript apps, applied ranking / ML and DSA for internships.
 
@@ -158,8 +153,8 @@ Simulates execution, highlights the active line and generates explanations with 
 
 ## Experience
 
-**Digital Media & Marketing Lead** — [Axiomaera](https://axiomaera.com/) *(Feb 2026 – present)*  
-Verifiable trust infrastructure. I own brand systems across web, social and launch campaigns and I sit on the design ↔ engineering handoff so product surfaces stay on-brand without slowing shipping.
+**Digital Media & Marketing Lead** — [Axiomaera](https://axiomaera.com/) *(Feb 2026 – July 2026)*  
+Verifiable trust infrastructure. I owned brand systems across web, social and launch campaigns and sat on the design ↔ engineering handoff so product surfaces stayed on-brand without slowing shipping.
 
 ---
 
@@ -173,8 +168,10 @@ Verifiable trust infrastructure. I own brand systems across web, social and laun
 ## GitHub
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Alema-em&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="Alema Emran GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alema-em&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Alema-em&show_icons=true&theme=tokyonight&hide_border=true" alt="Alema Emran GitHub stats" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Alema-em&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <br />
+  <img src="https://streak-stats.demolab.com/?user=Alema-em&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
 ---
