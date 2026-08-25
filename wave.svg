@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Waving hand">
+  <title>Waving hello</title>
+  <g transform="translate(64 72)">
+    <animateTransform
+      attributeName="transform"
+      type="rotate"
+      values="0;16;0;-10;14;0"
+      dur="1.15s"
+      repeatCount="indefinite"
+      additive="sum"
+    />
+    <ellipse cx="-18" cy="22" rx="10" ry="18" fill="#E8A24A" transform="rotate(-28 -18 22)" />
+    <rect x="-20" y="-6" width="40" height="46" rx="20" fill="#FFD27A" />
+    <rect x="-22" y="-38" width="11" height="40" rx="6" fill="#FFD27A">
+      <animate attributeName="y" values="-38;-44;-38;-34;-38" dur="1.15s" repeatCount="indefinite" />
+    </rect>
+    <rect x="-8" y="-46" width="12" height="48" rx="6" fill="#FFE09A">
+      <animate attributeName="y" values="-46;-54;-46;-42;-46" dur="1.15s" repeatCount="indefinite" />
+    </rect>
+    <rect x="7" y="-42" width="11" height="44" rx="6" fill="#FFD27A">
+      <animate attributeName="y" values="-42;-48;-42;-38;-42" dur="1.15s" repeatCount="indefinite" />
+    </rect>
+    <rect x="20" y="-32" width="10" height="34" rx="5" fill="#F4C266">
+      <animate attributeName="y" values="-32;-36;-32;-28;-32" dur="1.15s" repeatCount="indefinite" />
+    </rect>
+    <circle cx="-10" cy="8" r="3.2" fill="#F0A3A3" opacity="0.85" />
+    <circle cx="10" cy="8" r="3.2" fill="#F0A3A3" opacity="0.85" />
+  </g>
+</svg>
