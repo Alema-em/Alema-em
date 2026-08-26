@@ -165,17 +165,6 @@ Verifiable trust infrastructure. I owned brand systems across web, social and la
 
 ---
 
-## GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Alema-em&show_icons=true&theme=tokyonight&hide_border=true" alt="Alema Emran GitHub stats" />
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Alema-em&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-  <br />
-  <img src="https://streak-stats.demolab.com/?user=Alema-em&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
-
----
-
 ## Contact
 
 I read every note about internships, research and interesting product problems.
